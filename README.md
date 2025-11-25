@@ -1,0 +1,2 @@
+# BotSeki
+Bot Musik alakadarnya 
